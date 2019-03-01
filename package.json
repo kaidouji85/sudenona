@@ -1,0 +1,17 @@
+{
+  "name": "sudenona",
+  "version": "1.0.0",
+  "description": "reverse string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "src/index.js"
+  ],
+  "author": "y.takeuchi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
