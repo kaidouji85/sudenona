@@ -2,13 +2,10 @@
   "name": "sudenona",
   "version": "1.0.0",
   "description": "reverse string",
-  "main": "index.js",
+  "main": "lib.js",
   "scripts": {
     "test": "jest"
   },
-  "files": [
-    "src/index.js"
-  ],
   "author": "y.takeuchi",
   "license": "ISC",
   "devDependencies": {

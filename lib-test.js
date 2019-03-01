@@ -1,4 +1,4 @@
-const {sudenona} = require('../src/index');
+const {sudenona} = require('./lib');
 
 test('文字列を反転できる', () => {
   const result = sudenona('テストなのです。');
