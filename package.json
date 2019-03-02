@@ -1,6 +1,6 @@
 {
   "name": "sudenona",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "reverse string",
   "main": "lib.js",
   "scripts": {
@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaidouji85/sudenona"
   }
 }
